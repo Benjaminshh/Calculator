@@ -1,5 +1,5 @@
 # Calculator
-
+[Live Demo](https://benjaminshh.github.io/Calculator/)  
 
 This project is the final project for The Odin Project's foundations course.
 
